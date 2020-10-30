@@ -25,6 +25,6 @@ code .
 
 ## Installation instructions
 
-To start using the notebook: Use google collab or jupyter notebook. Recommended python version 3.6
+To start using the notebook: Use google collab or R studio 
 
 Contact Feel free to contact author with any questions or if you are interested in contributing!
